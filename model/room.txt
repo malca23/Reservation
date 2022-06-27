@@ -1,0 +1,5 @@
+1|Welirang|GMP Jakarta|50|Anis Hapsari|Ruang Rapat Kecil
+2|Krakatau|OPMC Jatinegara|100|Budi Budiman|Ruang Rapat Besar
+3|Rinjani|TLT Jakarta|20|Maman|Ruang Conference
+4|Bromo|GMP Jakarta|10|Anis Hapsari|Ruang Rapat Kecil
+5|Semeru|TLT Jakarta|10|Maman|Ruang Rapat Kecil
